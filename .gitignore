@@ -1,6 +1,4 @@
 # screw .idea
 .idea/*
-*.iml
-*.xml
-
 out/*
+gaslight.iml
