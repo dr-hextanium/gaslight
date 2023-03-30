@@ -1,5 +1,6 @@
 # screw .idea
-.idea
+.idea/*
 *.iml
+*.xml
 
-out/
+out/*
